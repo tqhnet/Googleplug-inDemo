@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "91美剧免广告",
+    "description": "91美剧免广告插件"
+  },
+  "btnTooltip": {
+    "message": "Ext Starter",
+    "description": "Tooltip for button"
+  },
+  "appDescription": {
+    "message": "91美剧免广告插件",
+    "description": "The description of the application"
+  }
+}
